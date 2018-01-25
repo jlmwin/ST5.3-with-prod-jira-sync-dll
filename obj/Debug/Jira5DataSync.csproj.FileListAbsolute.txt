@@ -1,0 +1,13 @@
+C:\Users\e0063552\Source\Repos\Spira5_Jira-DataSync\Jira5DataSync\bin\Debug\JiraDataSync.dll.config
+C:\Users\e0063552\Source\Repos\Spira5_Jira-DataSync\Jira5DataSync\bin\Debug\JiraDataSync.dll
+C:\Users\e0063552\Source\Repos\Spira5_Jira-DataSync\Jira5DataSync\bin\Debug\JiraDataSync.pdb
+C:\Users\e0063552\Source\Repos\Spira5_Jira-DataSync\Jira5DataSync\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e0063552\Source\Repos\Spira5_Jira-DataSync\Jira5DataSync\obj\Debug\JiraDataSync.dll
+C:\Users\e0063552\Source\Repos\Spira5_Jira-DataSync\Jira5DataSync\obj\Debug\JiraDataSync.pdb
+P:\WirelineProjects\SpiraTeam\3rd time Spira5_Jira-DataSync - Copy Sunil\3rd time Jira5DataSync\bin\Debug\JiraDataSync.dll.config
+P:\WirelineProjects\SpiraTeam\3rd time Spira5_Jira-DataSync - Copy Sunil\3rd time Jira5DataSync\bin\Debug\JiraDataSync.dll
+P:\WirelineProjects\SpiraTeam\3rd time Spira5_Jira-DataSync - Copy Sunil\3rd time Jira5DataSync\bin\Debug\JiraDataSync.pdb
+P:\WirelineProjects\SpiraTeam\3rd time Spira5_Jira-DataSync - Copy Sunil\3rd time Jira5DataSync\bin\Debug\Newtonsoft.Json.dll
+P:\WirelineProjects\SpiraTeam\3rd time Spira5_Jira-DataSync - Copy Sunil\3rd time Jira5DataSync\obj\Debug\Jira5DataSync.csprojResolveAssemblyReference.cache
+P:\WirelineProjects\SpiraTeam\3rd time Spira5_Jira-DataSync - Copy Sunil\3rd time Jira5DataSync\obj\Debug\JiraDataSync.dll
+P:\WirelineProjects\SpiraTeam\3rd time Spira5_Jira-DataSync - Copy Sunil\3rd time Jira5DataSync\obj\Debug\JiraDataSync.pdb
